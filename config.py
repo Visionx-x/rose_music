@@ -112,18 +112,19 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = os.getenv("START_IMG_URL", "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg")
-PING_IMG_URL = os.getenv("PING_IMG_URL", "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg")
-PLAYLIST_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-STATS_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-STREAM_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/8e2d8a70d4ea1ce1feda3-87d5d4aa7348fe7cdc.jpg"
+START_IMG_URL = os.getenv("START_IMG_URL", "https://files.catbox.moe/bsy36q.jpg")
+PING_IMG_URL = os.getenv("PING_IMG_URL", "https://files.catbox.moe/bsy36q.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/bsy36q.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/bsy36q.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
