@@ -112,18 +112,18 @@ AUTO_LEAVING_ASSISTANT = bool(os.getenv("AUTO_LEAVING_ASSISTANT", False))
 # 🖼️ Image URLs (Can be customized)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-START_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-PING_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-PLAYLIST_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/bsy36q.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/bsy36q.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/bsy36q.jpg"
+START_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+PING_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+STATS_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/zmfwcm.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/zmfwcm.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/zmfwcm.jpg"
 
 
 

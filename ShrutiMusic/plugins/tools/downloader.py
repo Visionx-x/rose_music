@@ -3325,14 +3325,17 @@ async def send_repo(_, message: Message):
         caption=(
             "<b>✨ ʜᴇʏ ᴅᴇᴀʀ, ʜᴇʀᴇ ɪꜱ ᴛʜᴇ ᴏꜰꜰɪᴄɪᴀʟ ʀᴇᴘᴏꜱɪᴛᴏʀʏ �ᴏꜰ ᴛʜɪꜱ ʙᴏᴛ ✨</b>\n\n"
             "🔗 �ᴏɴ'ᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ɢɪᴠᴇ ᴀ ꜱᴛᴀʀ 🌟 ᴀɴᴅ ꜰᴏʟʟᴏᴡ!\n\n"
-            "🧡 ᴄʀᴇᴅɪᴛꜱ : <a href='https://t.me/ShrutiBots'>@ShrutiBots</a>"
+            "🧡 ᴄʀᴇᴅɪᴛꜱ : <a href='https://t.me/LearningBotsOfficial'>Yash</a>"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("📂 Management Bot", url="http://github.com/NoxxOP/ShrutiMusic"),
-                    InlineKeyboardButton("📂 Music Bot", url="http://github.com/NoxxOP/ShrutixMusic")
-                ]
+                    InlineKeyboardButton("Management Bot", url="https://github.com/LearningBotsOfficial/Nomade"),
+                    InlineKeyboardButton("Smm Panel Bot", url="https://github.com/LearningBotsOfficial/smm_panel_bot")
+                ],
+                [
+                    InlineKeyboardButton("Forward Tag Remover Bot", url="https://github.com/LearningBotsOfficial/Forward_Tag_Remover_Bot"),
+                ],
             ]
         ),
         supports_streaming=True,

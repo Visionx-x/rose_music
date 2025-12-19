@@ -88,8 +88,8 @@ async def fork_repo_callback(client, query):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("🚀 Fᴏʀᴋ Rᴇᴘᴏ", url="https://github.com/aditya88402/Updated-"),
-                    InlineKeyboardButton("⚡ Hᴇʀᴏᴋᴜ Dᴇᴘʟᴏʏ", url="https://dashboard.heroku.com/new?template=https://github.com/aditya88402/Updated-")
+                    InlineKeyboardButton("🚀", url="https://github.com/"),
+                    InlineKeyboardButton("⚡", url="https://github.com/")
                 ],
                 [
                     InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="settingsback_helper")
