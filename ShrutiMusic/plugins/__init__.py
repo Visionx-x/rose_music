@@ -45,7 +45,7 @@ __all__ = ALL_MODULES + ["ALL_MODULES"]
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
+# 🔗 GitHub : https://github.com
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
 

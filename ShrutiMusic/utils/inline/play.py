@@ -190,7 +190,7 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
+# 🔗 GitHub : https://github.com
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
 

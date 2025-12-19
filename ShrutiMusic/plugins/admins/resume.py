@@ -47,7 +47,7 @@ async def resume_com(cli, message: Message, _, chat_id):
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
+# 🔗 GitHub : https://github.com
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
 

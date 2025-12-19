@@ -22,5 +22,5 @@ jobs:
                 -H "Authorization: token ${{ secrets.PERSONAL_TOKEN }}" \
                 -H "Accept: application/vnd.github.v3+json" \
                 https://api.github.com/repos/$repo/issues \
-                -d "{\"title\": \"🔄 New Update Available\", \"body\": \"Your fork of [ShrutiMusic](https://github.com/NoxxOP/ShrutiMusic) is behind. Please merge the latest changes from the upstream repo.\n\nThanks! 🙌\"}"
+                -d "{\"title\": \"🔄 New Update Available\", \"body\": \"Your fork of [ShrutiMusic](https://github.com) is behind. Please merge the latest changes from the upstream repo.\n\nThanks! 🙌\"}"
             done

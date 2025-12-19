@@ -89,9 +89,9 @@
 [![Support Group](https://img.shields.io/badge/Support%20Group-00FF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=FF0000)](https://t.me/ShrutiBotSupport)
 [![Owner](https://img.shields.io/badge/Owner-FFFF00?style=for-the-badge&logo=telegram&logoColor=black&labelColor=8A2BE2)](https://t.me/WTF_WhyMeeh)
 
-[![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF1493&color=00CED1)](https://github.com/NoxxOP/ShrutiMusic/fork)
-[![Stars](https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF4500&color=32CD32)](https://github.com/NoxxOP/ShrutiMusic/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=DC143C&color=FFD700)](https://github.com/NoxxOP/ShrutiMusic/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF1493&color=00CED1)](https://github.com/fork)
+[![Stars](https://img.shields.io/github/stars/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=FF4500&color=32CD32)](https://github.com/stargazers)
+[![Contributors](https://img.shields.io/github/contributors/NoxxOP/ShrutiMusic?style=social&logo=github&labelColor=DC143C&color=FFD700)](https://github.com/graphs/contributors)
 
 </div>
 
@@ -106,7 +106,7 @@
 <td align="center" width="33%">
 
 ### 🔥 **ʜᴇʀᴏᴋᴜ**
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic">
+<a href="https://dashboard.heroku.com/new?template=https://github.com">
 <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080" width="220px">
 </a>
 
@@ -116,7 +116,7 @@
 <td align="center" width="33%">
 
 ### ☁️ **ʀᴇɴᴅᴇʀ**
-<a href="https://render.com/deploy?repo=https://github.com/NoxxOP/ShrutiMusic">
+<a href="https://render.com/deploy?repo=https://github.com">
 <img src="https://img.shields.io/badge/Deploy%20To%20Render-00FF80?style=for-the-badge&logo=render&logoColor=black&labelColor=800080" width="220px">
 </a>
 
@@ -273,7 +273,7 @@ sudo apt-get install -y nodejs
 #### **📂 ᴄʟᴏɴᴇ ʀᴇᴘᴏsɪᴛᴏʀʏ**
 
 ```bash
-git clone https://github.com/NoxxOP/ShrutiMusic
+git clone https://github.com
 cd ShrutiMusic
 ```
 
@@ -360,7 +360,7 @@ screen -r {screen_id}
 
 <div align="center">
 
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080)](https://dashboard.heroku.com/new?template=https://github.com/NoxxOP/ShrutiMusic)
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20To%20Heroku-FF0080?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000080)](https://dashboard.heroku.com/new?template=https://github.com)
 
 </div>
 
@@ -490,7 +490,7 @@ screen -r {screen_id}
 <td align="center" width="33%">
 
 #### 📚 **ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ**
-[![Docs](https://img.shields.io/badge/Read%20Docs-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000080)](https://github.com/NoxxOP/ShrutiMusic)
+[![Docs](https://img.shields.io/badge/Read%20Docs-00D9FF?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=000080)](https://github.com)
 
 **ᴄᴏᴍᴘʟᴇᴛᴇ ɢᴜɪᴅᴇ**
 

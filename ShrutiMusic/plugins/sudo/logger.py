@@ -55,7 +55,7 @@ async def logger(client, message, _):
 
 # ===========================================
 # ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
-# 🔗 GitHub : https://github.com/NoxxOP/ShrutiMusic
+# 🔗 GitHub : https://github.com
 # 📢 Telegram Channel : https://t.me/ShrutiBots
 # ===========================================
 
