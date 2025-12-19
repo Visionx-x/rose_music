@@ -49,10 +49,8 @@ from strings import get_string
 
 # Random stickers list
 RANDOM_STICKERS = [
-    "CAACAgUAAxkBAAEEnzFor872a_gYPHu-FxIwv-nxmZ5U8QACyBUAAt5hEFVBanMxRZCc7h4E",
-    "CAACAgUAAxkBAAEEnzJor88q_xRO1ljlwh_I6fRF7lDR-AACnBsAAlckCFWNCpez-HzWHB4E",
-    "CAACAgUAAxkBAAEEnzNor88uPuVTSyRImyVXsu1pqrpRLgACKRMAAvOEEFUpvggmgDu6bx4E",
-    "CAACAgUAAxkBAAEEnzRor880z_spEYEnEfyFXN55tNwydQACIxUAAosKEVUB8iqZMVYroR4E"
+    "CAACAgUAAxkBAAIRcGlFUiv5GA8TCVo1dAezTlseIe_eAAKoHAACxlHGFZQGEft_4FLuNgQ",
+    "CAACAgUAAxkBAAIRcGlFUiv5GA8TCVo1dAezTlseIe_eAAKoHAACxlHGFZQGEft_4FLuNgQ"
 ]
 
 
