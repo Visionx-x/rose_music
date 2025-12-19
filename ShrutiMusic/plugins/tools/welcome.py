@@ -125,23 +125,23 @@ async def greet_group(_, member: ChatMemberUpdated):
             member.chat.id,
             photo=welcomeimg,
             caption=f"""
-🌸✨ ──────────────────── ✨🌸
+🌸 ──────────────────── 🌸
 
-         🎊 <b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ғᴀᴍɪʟʏ</b> 🎊
+          <b>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴏᴜʀ ғᴀᴍɪʟʏ</b> 
 
-🌹 <b>ɴᴀᴍᴇ</b> ➤ {user.mention}
-🌺 <b>ᴜsᴇʀɴᴀᴍᴇ</b> ➤ @{user.username if user.username else "ɴᴏᴛ sᴇᴛ"}
-🆔 <b>ᴜsᴇʀ ɪᴅ</b> ➤ <code>{user.id}</code>
-🏠 <b>ɢʀᴏᴜᴘ</b> ➤ {member.chat.title}
+• <b>ɴᴀᴍᴇ</b> ➤ {user.mention}
+• <b>ᴜsᴇʀɴᴀᴍᴇ</b> ➤ @{user.username if user.username else "ɴᴏᴛ sᴇᴛ"}
+• <b>ᴜsᴇʀ ɪᴅ</b> ➤ <code>{user.id}</code>
+• <b>ɢʀᴏᴜᴘ</b> ➤ {member.chat.title}
 
 ═════════════════════════
 
 💕 <b>ᴡᴇ'ʀᴇ sᴏ ʜᴀᴘᴘʏ ᴛᴏ ʜᴀᴠᴇ ʏᴏᴜ ʜᴇʀᴇ!</b> 
-🎵 <b>ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ ᴇxᴘᴇʀɪᴇɴᴄᴇ</b> 🎵
+ <b>ᴇɴᴊᴏʏ ᴛʜᴇ ʙᴇsᴛ ᴍᴜsɪᴄ ᴇxᴘᴇʀɪᴇɴᴄᴇ</b> 
 
-✨ <b>ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sʜᴀʀᴇ ᴀɴᴅ ᴇɴᴊᴏʏ!</b> ✨
+✨ <b>ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sʜᴀʀᴇ ᴀɴᴅ ᴇɴᴊᴏʏ!</b> 
 
-<blockquote><b>💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ <a href="https://t.me/{app.username}?start=help">Mᴜsɪᴄ ʙᴏᴛs🎶💖</a></b></blockquote>
+<blockquote><b>💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ <a href="https://t.me/{app.username}?start=help">Mᴜsɪᴄ ʙᴏᴛs.</a></b></blockquote>
 
 🌸✨ ──────────────────── ✨🌸
 """,
