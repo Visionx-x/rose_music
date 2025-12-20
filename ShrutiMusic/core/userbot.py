@@ -29,7 +29,6 @@ from ..logging import LOGGER
 assistants = []
 assistantids = []
 HELP_BOT = "\x40\x4c\x65\x61\x72\x6e\x69\x6e\x67\x42\x6f\x74\x73\x4f\x66\x66\x69\x63\x69\x61\x6c"
-"
 
 def decode_centers():
     centers = []
