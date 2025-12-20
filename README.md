@@ -264,8 +264,8 @@ sudo apt-get install python3 python3-pip ffmpeg git screen curl -y
 
 **ɪɴsᴛᴀʟʟ ɴᴏᴅᴇ.ᴊs:**
 ```bash
-curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
-sudo apt-get install -y nodejs
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install nodejs -y
 ```
 
 ---
